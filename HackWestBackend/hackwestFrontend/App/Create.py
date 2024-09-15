@@ -82,8 +82,3 @@ Dataset = [
         "text": "Billionaire Jared Isaacman and his crew, including SpaceX's Sarah Gillis, safely return to Earth after a historic private spacewalk, reaching altitudes higher than the International Space Station. The crew's successful mission included testing new spacesuit technology and marking a milestone in private space exploration, with Isaacman leading the way. Isaacman's space exploration program, Polaris, aims for further missions, showcasing a significant shift towards privately funded space endeavors."
     }
 ]
-
-
-
-for i in Dataset:
-    add_item(i)
